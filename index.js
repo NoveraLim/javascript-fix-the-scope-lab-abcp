@@ -1,4 +1,4 @@
-var animal = 'dog';
+yvar animal = 'dog';
 
 function myAnimal() {
   return animal;
